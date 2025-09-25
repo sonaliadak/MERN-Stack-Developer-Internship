@@ -418,14 +418,3 @@ app.listen(process.env.PORT || 4000, ()=>console.log('Server running'))
 
 ## 21. License
 MIT
-
-
----
-
-If you want, I can now:
-- generate starter code for the backend or frontend (single file per component), or
-- produce a `docker-compose.yml` for local development, or
-- scaffold the project with actual files and minimal working code.
-
-Tell me which of those you'd like and I will scaffold it next.
-
